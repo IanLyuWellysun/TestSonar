@@ -1,0 +1,17 @@
+main.c:226:5:main	4
+main.c:287:6:SystemClock_Config	3
+main.c:334:13:MX_FDCAN1_Init	2
+main.c:377:13:MX_SPI1_Init	2
+main.c:417:13:MX_TIM6_Init	3
+main.c:455:13:MX_GPIO_Init	1
+main.c:491:9:Crc8Saej1850	4
+main.c:514:6:ConfigICM42607T	1
+main.c:546:6:ReadImuICM42607T	1
+main.c:567:6:CanInitial	1
+main.c:601:6:CanOutput	1
+main.c:628:6:SPI2SWNSSTransmitReceive	1
+main.c:635:10:GetRealAccelerometer	3
+main.c:644:10:GetRealGyroscope	3
+main.c:653:10:GetRealGx	3
+main.c:662:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:676:6:Error_Handler	1
